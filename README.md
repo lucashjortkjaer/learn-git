@@ -1,2 +1,2 @@
 # learn-git
-Hey I'm learning GIT!
+Hey, I'm learning GIT YAY!!!
